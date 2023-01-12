@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/my_db",
+    "production_uri": "(RDBMS_name like mysql,sqlite)://(username):(password)@(server_name)/(database_name)",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "gmail-user": "jayrama002@gmail.com",
+    "gmail-password": "vtaqcrmlukedaddg",
+    "about_text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe nostrum ullam eveniet pariatur voluptates odit, fuga atque ea nobis sit soluta odio, adipisci quas excepturi maxime quae totamducimus consectetur?\nLorem ipsum dolor sit amet, consectetur adipisicing elit. Eius praesentium recusandae illo eaque architecto error, repellendus iusto reprehenderit, doloribus, minus sunt. Numquam at quae voluptatum\n  in officia voluptas voluptatibus, minus!Lorem ipsum dolor sit amet, consectetur adipisicing elit.\n  Aut consequuntur magnam, excepturi aliquid ex itaque esse est vero natus quae optio aperiam soluta\n  voluptatibus corporis atque iste neque sit tempora!",
+    "no_post": 3,
+    "blog-name": "Abinash Chakraborty",
+    "login_img": "login.png",
+    "adm_user": "abinash123",
+    "adm_pass": "abinash321",
+    "upload_location": "C:\\Users\\Abinash\\PycharmProjects\\Webwith_Flask\\upload_img"
+
+
+  }
+}

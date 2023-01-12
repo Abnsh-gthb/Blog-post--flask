@@ -1,0 +1,2 @@
+<h3 class="post-subtitle">{% for i in post.content[:post.content.index('.')] %} {{i}}
+                    {% endfor %}</h3>
